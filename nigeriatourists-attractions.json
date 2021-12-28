@@ -1,32 +1,92 @@
 [
 
 	{
-		"title": "Pleasure Park",
-		"filename": "P_P_K",
+		"title": "attraction_title",
+		"name": "name",
 		"url": "#",
 		"category": [
 			"Outdoors",
 			"Adventure",
 			"Cinema"
 		],
-        "unicef_heritage": "not", 
+        "unesco_heritage": "not-listed/tentative-list", 
+        "lga": "LGA_name",
+        "location": "City/Town/Village/Community",
+        "state": "one of the 36 states of Nigeria/FCT",
+        "address": "Precised Address",
+		"description": "",
+		"status": "operational/Obsolete",
+		"clearance": "public/private",
+		"postal code": ""
+	},
+	{
+		"title": "P_P_K",
+		"name": "Pleasure Park",
+		"url": "#",
+		"category": [
+			"Outdoors",
+			"Adventure",
+			"Cinema"
+		],
+        "unesco_heritage": "not-listed", 
         "lga": "phalga",
-        "location": "Port Harcourt",
+        "location": "Port Harcourt City",
         "state": "Rivers state",
-        "address": "Aba road, Opposite Pleasure Park"
+        "address": "Aba road, Opposite Pleasure Park",
+		"description": "",
+		"status": "operational",
+		"clearance": "public"
+
 	},
 	{
 		"title": "Ogbunike Caves",
-		"filename": "Ogbunike_Caves",
+		"name": "Ogbunike_Caves",
 		"url": "#",
 		"category": [
 			"Software",
 			"ICT" 
 		],
-        "unicef_heritage": "tentative list", 
+        "unesco_heritage": "tentative list", 
         "lga": "Oyi",
         "location": "Oyi",
         "state": "Anambra state",
-        "address": "Aba road, Opposite Pleasure Park"
+        "address": "",
+        "description": "Ogbunike Caves make an idea tourists destination. These caves are closely associated with historical and spiritual significance. There are 317 steps that need to be used to descend down to the caves. It is a UNESCO Heritage Site.",
+		"status": "operational",
+		"clearance": "public"
+	},
+	{
+		"title": "Obudu Mountain Resort",
+		"name": "Obudu Cattle Ranch",
+		"url": "#",
+		"category": [
+			"Resort",
+			"Mountain" 
+		],
+        "unesco_heritage": "not-listed", 
+        "lga": "Obudu",
+        "location": "Obudu Town",
+        "state": "Cross River State",
+        "address": "",
+        "description": "Above the sea level on the Oshie Ridge of the famous Sankwala Mountains sits majestically the Obudu Mountain Resort. The temperate climate, breathtaking views, idyllic tranquility and beautiful scenery has made this resort one of the famous tourists’ sites in Nigeria.",
+		"status": "operational",
+		"clearance": "public"
+	},
+	{
+		"title": "Ibeno Bar Beach",
+		"name": "Ibeno Beach",
+		"url": "#",
+		"category": [
+			"Beach",
+			"Bar" 
+		],
+        "unesco_heritage": "not-listed", 
+        "lga": "Ibeno",
+        "location": "",
+        "state": "Akwa Ibom State",
+        "address": "",
+        "description": "A blissful destination for tourists stretched over 245km on a sand bank in Ibeno lies the Ibeno Beach, a little haven for leisure seekers. The roaring waves, spots for sunbathing, unpolluted foliage of the mangrove forest, cool breeze from the water and a lush surrounding give this destination an unimaginable allure for tourists.",
+		"status": "operational",
+		"clearance": "public"
 	}
 ]
