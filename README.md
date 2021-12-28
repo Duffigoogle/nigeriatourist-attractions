@@ -1,2 +1,2 @@
 # tourist-attractions-NG
-List of tourist attractions in Nigeria.
+creating an open-source API of all tourist attractions in Nigeria.
