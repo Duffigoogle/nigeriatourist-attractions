@@ -1,0 +1,109 @@
+[
+	{
+        "state": {
+            "name": "Adamawa State",
+            "capital":"Yola",
+            "state_code": "AD",
+            "slogan":"Land of Beauty, Sunshine and Hospitality",
+            "id": 2
+        },
+        "tourist_attractions": [
+            {
+                "id": 1,
+                "title": "Lamurde Hot Spring",
+                "name": "Lamurde Hot Spring",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 2,
+                "title": "Modibbo Adam’s Tomb Monument",
+                "name": "Modibbo Adam’s Tomb Monument",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure",
+                    "Monument"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA_name",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 3,
+                "title": "Three Sister Rocks Monument",
+                "name": "Three Sister Rocks Monument",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure",
+                    "Rocks",
+                    "Monument"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA_name",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 4,
+                "title": "Mamara Crocodile Pond",
+                "name": "Mamara Crocodile Pond",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Pond"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 5,
+                "title": "Gashaka Gumti National Park, Eco-Tourism (Wildlife)",
+                "name": "Gashaka Gumti National Park, Eco-Tourism",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "WildLife",
+                    "Adventure",
+                    "National Park",
+                    "Eco-Tourism"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            }
+        ]
+	}
+]
