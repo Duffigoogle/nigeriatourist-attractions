@@ -1,0 +1,45 @@
+{
+    "fullname": "name",
+    "shortname": "",
+    "abbreviation": "",
+    "url": "#",
+    "unesco_heritage": "not-listed/tentative-list", 
+    "location": {
+        "street": "",
+        "locality": "",
+        "town": "",
+        "lga": "LGA_name",
+        "state": "one of the 36 states of Nigeria/FCT"
+    },
+    "postalcode": "",
+    "coordinates": {
+        "latitude": "LAT.",
+        "longitude": "LONG."
+    },
+    "category": [
+        "Outdoors",
+        "Adventure",
+        "Cinema"
+    ],
+    "sub_category": "Man-made | Natural | Natural & Man-made",
+    "description": "",
+    "status": "operational/Obsolete/Active/Suspended/Maintenance",
+    "opening_hours": "",
+    "owner_type": "public/private/international/non-profit",
+    "5As": {
+        "accessibility": "",
+        "amenities": "Available/Not-available/",
+        "activities": "",
+        "attractions": "",
+        "accomodation": "Available/Not-Available"
+    },
+    "tags": "",
+    "rating": "",
+    "reviews": [
+        {
+            "name": "",
+            "comments": ""
+        }
+    ],
+    "user_rating_total": ""
+}
