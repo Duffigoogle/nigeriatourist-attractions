@@ -1,0 +1,143 @@
+[
+	{
+        "state": {
+            "name": "Abia State",
+            "capital":"Umuahia",
+            "state_code": "AB",
+            "slogan":"God's Own State",
+            "id": 1
+        },
+        "tourist_attractions": [
+            {
+                "id": 1,
+                "title": "Arochukwu Caves",
+                "name": "Arochukwu Caves",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure"
+                ],
+                "unesco_heritage": "not-listed/tentative-list", 
+                "location": "City/Town/Village/Community",
+                "lga": "Arochukwu",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 2,
+                "title": "Azumini Blue River",
+                "name": "Azumini Blue River",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA_name",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 3,
+                "title": "Museum of Colonial History Monument",
+                "name": "Museum of Colonial History Monument",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure",
+                    "Museum",
+                    "Monument"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA_name",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 4,
+                "title": "National War Museum Umuahia",
+                "name": "National War Museum",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure",
+                    "Museum"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "Umuahia",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 5,
+                "title": "Akwette Weaving Centre Arts and Crafts",
+                "name": "Akwette Weaving Centre Arts &  Crafts",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Arts",
+                    "Crafts"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "Akwette",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 6,
+                "title": "Long juju of Arochukwu Cultural festivals",
+                "name": "Long juju of Arochukwu Cultural festivals",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Festival"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "Arochukwu",
+                "address": "Precised Address",
+                "description": "",
+                "status": "Annual",
+                "clearance": "public",
+                "postal code": ""
+            },
+            {
+                "id": 7,
+                "title": "Enemabia warm spring",
+                "name": "Enemabia warm spring",
+                "url": "#",
+                "category": [
+                    "Outdoors",
+                    "Adventure"
+                ],
+                "unesco_heritage": "not-listed", 
+                "location": "City/Town/Village/Community",
+                "lga": "LGA_name",
+                "address": "Precised Address",
+                "description": "",
+                "status": "operational",
+                "clearance": "public",
+                "postal code": ""
+            }
+        ]
+	}
+]
