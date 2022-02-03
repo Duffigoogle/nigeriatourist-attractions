@@ -1,0 +1,361 @@
+[
+    {
+        "fullname": "Ogbunike Cave",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "tentative-list", 
+        "location": {
+            "locality": "",
+            "town": "Ogbunike",
+            "lga": "LGA_name",
+            "state": "Anambra State"
+        },
+        "address": "Behind St. Monica College, Ogbunike",
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cave"
+        ],
+        "sub_category": "Natural",
+        "description": "Ogbunike Caves are situated in a valley with tropical rain forest behind the Ogba hills, in which lies St. Monica College, Ogbunike. Descending into the valley where the caves are located is a lengthy walkway made up of about 317 steps said to have been constructed by the Anambra State Government in the mid 90s. At the end of the walkway is an open space used as a reception point where visitors are by tradition to remove their shoes. The main cave consists of a massive structure with a big open chamber of about 5m high, 10m wide and 30m long at the entrance. There are ten tunnels at the main chamber leading to different directions. Within the tunnels are big chambers and other tunnels of varying lengths, some of which are interconnected. The caves are occupied by a large colony of bats of various sizes. There are streams and body of water at various places. A stream flows out from one of the tunnels into a rapid flowing river (River Nkissa). At the meeting point of the river and the stream one can feel the warm water from the caves and the cold river water.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "caves",
+            "cultural heritage",
+            "exploration" 
+        ],
+        "rating": "6.5"
+    },
+    {
+        "fullname": "Owerre-Ezukala Caves and waterfall",
+        "shortname": "Ogba Ukwu Caves and waterfall",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "locality": "",
+            "town": "Owerre-Ezukala",
+            "lga": "LGA_name",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            ""
+        ],
+        "sub_category": "Natural",
+        "description": "OgbaUkwu Caves presents one of the greatest natural tourist attraction in Anambra State. But very little is known about the site, which has been in existence for many years. Hidden away from the busy routes that crisscross Anambra, the Ogbaukwu Caves and Waterfalls are located in Owerre Ezeukala community that borders three other states: Abia, Enugu and Imo. It is approximately 75km east of Onitsha. The Ogba Ukwu cave is considered to be one of the largest cave in West Africa, which will take upwards to two hours to explore. It forms a deep and complex rock formation with roomy compartments large enough to take in an entire village. At the centre of Ogba Ukwu, is one large area said to have been the living room of the ‘god’ of Owerre-Ezukala. There is one particular compartment, accessed by the aid of stone steps where an old elephant’s foot still stands, long dead and dry. In another crevice, there is a natural spanner of rock, and in yet another is a gun of stone, as old as the cave. Guided tours in and around it is a wonder, and leaves a visitor dumbfounded to this wonderful work of nature.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Waterfall",
+            "Cave",
+            "Cave exploration"
+        ],
+        "rating": "6",
+        "user_rating_total": ""
+    },
+    {
+        "fullname": "Agulu Lake",
+        "shortname": "Agulu Lake",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "Agulu",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure"
+        ],
+        "sub_category": "Natural",
+        "description": "Agulu Lake is one of the numerous sites of attraction, alongside the Ogbunike cave, River Niger, Ikenga Virgin forest, Omashi-iyi cave, Akpu, Odo River and Obutu Lake Omogho, iyi-ocha Lake Amaokpala town, ekwuluimili botanical and herbal garden, Nanka natural springs amongst others all situated in different parts of Anambra State, one the major States in eastern Nigeria which has one of the biggest commercial center in the country.  Agulu Lake is very wide, it has a lengthy diameter and beautiful surface area, located along Awka road, Umuowele village in Agulu town, Aniocha Local Government Area of Anambra  State. The Agulu Lake has so many mysteries surrounding its existence, mysteries which still hold and believed in till date. It is said to belong to the deity, ‘Ndemili’, a water god and has special powers.  They say, it chooses whom to harbor and drowns whomever it wishes. Aside this, it habitats several marine species the most famous of them being the crocodile and water turtle which on estimate, they were about three hundred. Fishing is prohibited here and these crocodiles are considered sacred.",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Lake",
+            "Swimming"
+        ],
+        "rating": "4"
+    },
+    {
+        "fullname": "Odinani Museum",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "Nri",
+            "town": "Nri",
+            "lga": "Anaocha",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Museum",
+            "Arts",
+            "Sculpture",
+            "Bronze Work"
+        ],
+        "sub_category": "Man-made",
+        "description": "Odinani museum is located in nri village, anaocha local government area of anambra state, the Museum built over 30 years ago by late Prof M. Angulu Onwuejeogwu houses lots of archaeological discoveries, cultural and traditional religious artifacts.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "museum",
+            "Art Work",
+            "Sculpture"
+        ],
+        "rating": "4"
+    },
+    {
+        "fullname": "Iyiocha Lake",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "Oko",
+            "lga": "Orumba South",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Lake"
+        ],
+        "sub_category": "Natural",
+        "description": "This is a long and still lake at the outskirts of the town.  The far end of the lake is in Oko town where the Federal Polytechnic is located.  The lake is as quiet as the Dead Sea and no aquatic life has been recorded in it.  The mystery behind the lake is that till date no case of drowning of an indigene of the community has been recorded.",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Lake",
+            ""
+        ],
+        "rating": "3"
+    },
+    {
+        "fullname": "Ikenga Virgin Forest",
+        "shortname": "Ikenga Forest",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "Ikenga",
+            "lga": "Orumba South",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure"
+        ],
+        "sub_category": "Natural",
+        "description": "This is the only known virgin forest in Nigeria. It is a thick forest reserve, till date it has neither been cultivated nor its trees cut. It is a typical rainforest composed of tall evergreens, climbers and thick shrubs reputed to be the home of many species of animals that have gone extinct in other parts of the country.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public/private",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Forest", 
+            "Hunting"],
+        "rating": "2"
+    },
+    {
+        "fullname": "The River Niger Bridge",
+        "shortname": "Niger Bridge",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "Onitsha",
+            "lga": "LGA_name",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors"
+        ],
+        "sub_category": "Man-made",
+        "description": "he River Niger Bridge is located in Onitsha South Local Government Area. This bridge connects Onitsha with Asaba and is the gateway between south-east Nigeria and Southwest Nigeria. It is also a nice place to take some pictures with the river Niger as its background. French construction giant, Dumez, constructed the Niger Bridge, to link Onitsha and Asaba in present-day Anambra and Delta States respectively at an estimated cost of £6.75 million. Construction of the bridge was completed in December 1965.",
+        "status": "Operational",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Bridge",
+            "River Niger Bridge"
+        ],
+        "rating": "2"
+    },
+    {
+        "fullname": "Awka Wonderland",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "Awka",
+            "lga": "Awka",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            ""
+        ],
+        "sub_category": "Man-made",
+        "description": "",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public/private",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": [
+            "Wonderland",
+            ""
+        ],
+        "rating": "5"
+    },
+    {
+        "fullname": "Palace of Obi Orafitie",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "Anambra State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Palace"
+        ],
+        "sub_category": "Man-made",
+        "description": "The Palace of Obi Obi Orafitie built in 1836 This is the residence of the traditional ruler and head of the Onitsha Kingdom. Also called ‘Ime Obi’, it is the site for a lot of festivals and events and a major tourist attraction of the state.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "private",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Palace",
+            "Traditional Stool",
+            "cultural heritage"
+        ],
+        "rating": "3"
+    }
+]

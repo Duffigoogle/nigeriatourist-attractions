@@ -1,0 +1,383 @@
+[
+    {
+        "fullname": "The Amalgamation House",
+        "shortname": "Amalgamation House",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Ikot Abasi",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Architecture",
+            ""
+        ],
+        "sub_category": "Man-made",
+        "description": "The amalgamation house is a cottage which was once the administrative headquarters of the southern protectorate. In this building, Lord Luggard decreed the amalgamation of the northern and southern protectorates.",
+        "status": "Obsolete",
+        "opening_hours": "",
+        "owner_type": "public/private",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "Uta Ewa Beach",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Ikot Abasi",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Beach"
+        ],
+        "sub_category": "Natural & Man-made",
+        "description": "Boat Cruise Boat ride to the ancient town of Opobo",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "Women War Museum",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Ikot Abasi",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Museum"
+        ],
+        "sub_category": "Man-made",
+        "description": "This is also another place in Ikot Abasi LGA in remembrance of the protest that lasted for a month and seems like a war that the women took upon themselves several years ago. This was as a result of the tax imposed on the women in 1929. Although, many women lost their life. The museum serves as a remembrance and honour to the women of Rivers, Ibom, Cross River, and Owerri. WWM is a beautiful tourist attraction to visit.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Museum",
+            "Women Riot",
+            "Women Memorial"
+        ],
+        "rating": "4"
+    },
+    {
+        "fullname": "Bridge of No Return",
+        "shortname": "Slave Route",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Ikot Abasi",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Bridge",
+            "Architecture"
+        ],
+        "sub_category": "Man-made",
+        "description": "The bridge of no return was given its name by the people of Ikot Abasi. This bridge brings to mind the pains of slave trade and was usually the last point of contact between slaves and their lands before they were put on big ships and sent to work on farms in America. Although the bridge of no return is very infamous among the people of Ikot Abasi, it is a major tourist destination in Akwa Ibom.",
+        "status": "Maintenance",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "Slave route",
+            "Bridge",
+            "Bridge of no return"
+        ],
+        "rating": "4"
+    },
+    {
+        "fullname": "name",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "one of the 36 states of Nigeria/FCT"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cinema"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public/private/international/non-profit",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "name",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "one of the 36 states of Nigeria/FCT"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cinema"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public/private/international/non-profit",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "name",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "one of the 36 states of Nigeria/FCT"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cinema"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public/private/international/non-profit",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "name",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "one of the 36 states of Nigeria/FCT"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cinema"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public/private/international/non-profit",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "name",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "one of the 36 states of Nigeria/FCT"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cinema"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public/private/international/non-profit",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    },
+    {
+        "fullname": "name",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed/tentative-list", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "LGA_name",
+            "state": "one of the 36 states of Nigeria/FCT"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cinema"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "",
+        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "opening_hours": "",
+        "owner_type": "public/private/international/non-profit",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": "",
+        "rating": ""
+    }
+]
