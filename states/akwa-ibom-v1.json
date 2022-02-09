@@ -1,6 +1,44 @@
 [
-    {
-        "fullname": "The Amalgamation House",
+    {   "fullname": "Le Meridien Ibom Golf Resort",
+        "shortname": "Ibom Golf Resort",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Uran",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Resort",
+            "Hotel"
+        ],
+        "sub_category": "Man-made",
+        "description": "Are you in Akwa Ibom and want to spend some time at the golf club, then Le Meridien hotel is just the ideal place to go. Le Meridien hotel is one of the most recognized hotels in Nigeria and the most prestigious in Akwa Ibom. The golf course in Le Meridien hotel features 18 holes and is one of the first golf courses in West Africa.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "private",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Not-available",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "resort",
+            "golf course",
+            "hotel"
+        ],
+        "rating": "6"
+    },
+    {   "fullname": "The Amalgamation House",
         "shortname": "Amalgamation House",
         "abbreviation": "",
         "url": "#",
@@ -35,8 +73,7 @@
         "tags": "",
         "rating": ""
     },
-    {
-        "fullname": "Uta Ewa Beach",
+    {   "fullname": "Uta Ewa Beach",
         "shortname": "",
         "abbreviation": "",
         "url": "#",
@@ -71,8 +108,7 @@
         "tags": "",
         "rating": ""
     },
-    {
-        "fullname": "Women War Museum",
+    {    "fullname": "Women War Museum",
         "shortname": "",
         "abbreviation": "",
         "url": "#",
@@ -111,8 +147,7 @@
         ],
         "rating": "4"
     },
-    {
-        "fullname": "Bridge of No Return",
+    {   "fullname": "Bridge of No Return",
         "shortname": "Slave Route",
         "abbreviation": "",
         "url": "#",
@@ -152,18 +187,16 @@
         ],
         "rating": "4"
     },
-    {
-        "fullname": "name",
-        "shortname": "",
+    {   "fullname": "Ibeno Bar Beach",
+        "shortname": "Ibeno Beach",
         "abbreviation": "",
         "url": "#",
-        "unesco_heritage": "not-listed/tentative-list", 
+        "unesco_heritage": "not-listed", 
         "location": {
-            "street": "",
             "locality": "",
             "town": "",
-            "lga": "LGA_name",
-            "state": "one of the 36 states of Nigeria/FCT"
+            "lga": "Ibeno",
+            "state": "Akwa Ibom State"
         },
         "postalcode": "",
         "coordinates": {
@@ -172,36 +205,42 @@
         },
         "category": [
             "Outdoors",
-            "Adventure",
-            "Cinema"
+            "Beach"
         ],
-        "sub_category": "Man-made | Natural | Natural & Man-made",
-        "description": "",
-        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "sub_category": "Natural",
+        "description": "This beach is one of the many tourist attractions in Akwa Ibom state. Ibeno beach is one of the places in Akwa Ibom that cannot be perfectly described with words. The soothing feel of its breeze coupled with the sound of the roaring waters makes Ibeno beach one place that is a must visit for everyone.",
+        "status": "Active",
         "opening_hours": "",
-        "owner_type": "public/private/international/non-profit",
+        "owner_type": "public",
         "5As": {
-            "accessibility": "",
+            "accessibility": "Yes",
             "amenities": "Available/Not-available/",
-            "activities": "",
+            "activities": [
+                "horse Riding",
+                "picnic",
+                "boat ride",
+                "swimming",
+                "bar"
+            ],
             "attractions": "",
-            "accomodation": "Available/Not-Available"
+            "accomodation": "Available"
         },
-        "tags": "",
-        "rating": ""
+        "tags": [
+            "Beach",
+            "Bar Beach"
+        ],
+        "rating": "5"
     },
-    {
-        "fullname": "name",
-        "shortname": "",
+    {   "fullname": "Lord Lugards's Residence",
+        "shortname": "Lugard's Residence",
         "abbreviation": "",
         "url": "#",
-        "unesco_heritage": "not-listed/tentative-list", 
+        "unesco_heritage": "not-listed", 
         "location": {
-            "street": "",
             "locality": "",
             "town": "",
-            "lga": "LGA_name",
-            "state": "one of the 36 states of Nigeria/FCT"
+            "lga": "Ikot Abasi",
+            "state": "Akwa Ibom State"
         },
         "postalcode": "",
         "coordinates": {
@@ -209,37 +248,38 @@
             "longitude": "LONG."
         },
         "category": [
-            "Outdoors",
-            "Adventure",
-            "Cinema"
+            "Architecture",
+            "Old Buildings"
         ],
-        "sub_category": "Man-made | Natural | Natural & Man-made",
-        "description": "",
-        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "sub_category": "Man-made",
+        "description": "Not very many people are aware of the existence of this building. Lord Luggard’s residence is just opposite the Amalgamation house. This house is a small one-story cottage and is one of the destinations that are worth visiting if you have a keen interest in Nigerian history.",
+        "status": "Obsolete",
         "opening_hours": "",
-        "owner_type": "public/private/international/non-profit",
+        "owner_type": "private",
         "5As": {
-            "accessibility": "",
-            "amenities": "Available/Not-available/",
+            "accessibility": "Poor",
+            "amenities": "Not-available",
             "activities": "",
             "attractions": "",
-            "accomodation": "Available/Not-Available"
+            "accomodation": "Not-Available"
         },
-        "tags": "",
-        "rating": ""
+        "tags": [
+            "Ancient Building",
+            "Old Architecture",
+            "Lugards Residence"
+        ],
+        "rating": "2"
     },
-    {
-        "fullname": "name",
-        "shortname": "",
+    {   "fullname": "Oron Museum",
+        "shortname": "Oron Museum",
         "abbreviation": "",
         "url": "#",
-        "unesco_heritage": "not-listed/tentative-list", 
+        "unesco_heritage": "not-listed", 
         "location": {
-            "street": "",
             "locality": "",
             "town": "",
-            "lga": "LGA_name",
-            "state": "one of the 36 states of Nigeria/FCT"
+            "lga": "Oron",
+            "state": "Akwa Ibom State"
         },
         "postalcode": "",
         "coordinates": {
@@ -247,37 +287,39 @@
             "longitude": "LONG."
         },
         "category": [
-            "Outdoors",
-            "Adventure",
-            "Cinema"
+            "Museum",
+            "History",
+            "Art"
         ],
-        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "sub_category": "Man-made",
         "description": "",
-        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "status": "Active",
         "opening_hours": "",
-        "owner_type": "public/private/international/non-profit",
+        "owner_type": "public",
         "5As": {
             "accessibility": "",
-            "amenities": "Available/Not-available/",
+            "amenities": "Not-available",
             "activities": "",
             "attractions": "",
             "accomodation": "Available/Not-Available"
         },
-        "tags": "",
-        "rating": ""
+        "tags": [
+            "museum",
+            "arts",
+            "history"
+        ],
+        "rating": "4"
     },
-    {
-        "fullname": "name",
-        "shortname": "",
+    { "fullname": "Ibom Plaza",
+        "shortname": "Plaza",
         "abbreviation": "",
         "url": "#",
-        "unesco_heritage": "not-listed/tentative-list", 
+        "unesco_heritage": "not-listed", 
         "location": {
-            "street": "",
             "locality": "",
             "town": "",
-            "lga": "LGA_name",
-            "state": "one of the 36 states of Nigeria/FCT"
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
         },
         "postalcode": "",
         "coordinates": {
@@ -285,15 +327,13 @@
             "longitude": "LONG."
         },
         "category": [
-            "Outdoors",
-            "Adventure",
-            "Cinema"
+            "Outdoors"
         ],
-        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "sub_category": "Man-made",
         "description": "",
-        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "status": "Active",
         "opening_hours": "",
-        "owner_type": "public/private/international/non-profit",
+        "owner_type": "public",
         "5As": {
             "accessibility": "",
             "amenities": "Available/Not-available/",
@@ -301,21 +341,23 @@
             "attractions": "",
             "accomodation": "Available/Not-Available"
         },
-        "tags": "",
-        "rating": ""
+        "tags": [
+            "picnic",
+            "ibom plaza",
+            "relaxation"
+        ],
+        "rating": "3"
     },
-    {
-        "fullname": "name",
-        "shortname": "",
+    {    "fullname": "Ibom Tropicana Entertainment Center",
+        "shortname": "Tropicana",
         "abbreviation": "",
         "url": "#",
-        "unesco_heritage": "not-listed/tentative-list", 
+        "unesco_heritage": "not-listed", 
         "location": {
-            "street": "",
             "locality": "",
             "town": "",
-            "lga": "LGA_name",
-            "state": "one of the 36 states of Nigeria/FCT"
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
         },
         "postalcode": "",
         "coordinates": {
@@ -324,14 +366,13 @@
         },
         "category": [
             "Outdoors",
-            "Adventure",
             "Cinema"
         ],
-        "sub_category": "Man-made | Natural | Natural & Man-made",
-        "description": "",
+        "sub_category": "Man-made",
+        "description": "Ibom Tropicana entertainment centre is a world-class resort that was perfectly designed for both business and leisure.  It features a five-star hotel, a shopping mall, a cinema and a convention center. Irrespective of the reason you are in Akwa Ibom, business or pleasure, Ibom Tropicana entertainment center is always open to meet your needs.",
         "status": "operational/Obsolete/Active/Suspended/Maintenance",
         "opening_hours": "",
-        "owner_type": "public/private/international/non-profit",
+        "owner_type": "public",
         "5As": {
             "accessibility": "",
             "amenities": "Available/Not-available/",
@@ -339,21 +380,23 @@
             "attractions": "",
             "accomodation": "Available/Not-Available"
         },
-        "tags": "",
-        "rating": ""
+        "tags": [
+            "cinema",
+            "restaurant",
+            "games"
+        ],
+        "rating": "3"
     },
-    {
-        "fullname": "name",
+    {   "fullname": "Akwa Ibom International Stadium,",
         "shortname": "",
         "abbreviation": "",
         "url": "#",
-        "unesco_heritage": "not-listed/tentative-list", 
+        "unesco_heritage": "not-listed", 
         "location": {
-            "street": "",
             "locality": "",
             "town": "",
-            "lga": "LGA_name",
-            "state": "one of the 36 states of Nigeria/FCT"
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
         },
         "postalcode": "",
         "coordinates": {
@@ -362,14 +405,51 @@
         },
         "category": [
             "Outdoors",
-            "Adventure",
-            "Cinema"
+            "Sports"
         ],
-        "sub_category": "Man-made | Natural | Natural & Man-made",
-        "description": "",
-        "status": "operational/Obsolete/Active/Suspended/Maintenance",
+        "sub_category": "Man-made",
+        "description": "Akwa Ibom stadium is the most recent stadium in Nigeria. It was designed and built by Julius Berger in 2014 and was patterned after the home stadium of German football giants, Bayern Munich. The Akwa Ibom international stadium is the home turf of Akwa United; a professional football team and one of the biggest teams in the Nigerian Premier League.",
+        "status": "Active",
         "opening_hours": "",
-        "owner_type": "public/private/international/non-profit",
+        "owner_type": "public/private",
+        "5As": {
+            "accessibility": "yes",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": [
+            "sports",
+            "stadium"
+        ],
+        "rating": "5"
+    },
+    {    "fullname": "Raffia City Plaza",
+        "shortname": "Raffia City",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "street": "",
+            "locality": "",
+            "town": "",
+            "lga": "Ikot Ekpene",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors"
+        ],
+        "sub_category": "Man-made",
+        "description": "Raffia city plaza is one of the biggest tourist attractions in Ikot Ekpene. This plaza is not just a place to get affordable stuff, it is also a place where children can have fun while the adults do the shopping. Raffia city plaza features a football viewing centre and a place to see movies.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
         "5As": {
             "accessibility": "",
             "amenities": "Available/Not-available/",
@@ -377,7 +457,162 @@
             "attractions": "",
             "accomodation": "Available/Not-Available"
         },
-        "tags": "",
-        "rating": ""
+        "tags": [
+            "plaza",
+            "raffia city",
+            "shopping"
+        ],
+        "rating": "3"
+    },
+    {   "fullname": "State Park",
+        "shortname": "Unity Park",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors"
+        ],
+        "sub_category": "Man-made",
+        "description": "You can have a picnic in the gardens.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": [
+            "unity park",
+            "state park",
+            "picnic"
+        ],
+        "rating": "4"
+    },
+    {   "fullname": "Ibiobio Museum/Cenotaph",
+        "shortname": "Cenotaph",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Museum"
+        ],
+        "sub_category": "Man-made | Natural | Natural & Man-made",
+        "description": "Ibiobio Museum and state park is the no 1 place to visit if you are interested in knowing more about the Ibiobio people and their way of life. This museum contains artifacts that will help you understand the history of the Ibiobio people. If you are not cut out for museums, you can also have a picnic in the gardens surrounding this museum.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": [
+            "museum",
+            "picnic",
+            "cenotaph"
+        ],
+        "rating": "4"
+    },
+    {   "fullname": "National Museum of Colonial History",
+        "shortname": "Colonial Museum",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Museum"
+        ],
+        "sub_category": "Man-made",
+        "description": "This is for all lovers of history and arts. which was established 1989.  The National Museum of colonial history is located at Wellington Bassey way. This museum contains lots of artifacts that relate to the people of Akwa Ibom and how they fared during the period of slave trade. the public park doubles as a cenotaph for fallen heroes. The Armed Forces Remembrance Day, which is an annual event is held at the Unity Park, Uyo.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": [
+            "museum",
+            "artifacts",
+            "slave trade"
+        ],
+        "rating": "4"
+    },
+    {   "fullname": "Ibom E-Library",
+        "shortname": "E-Library",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "not-listed", 
+        "location": {
+            "locality": "",
+            "town": "",
+            "lga": "Uyo",
+            "state": "Akwa Ibom State"
+        },
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Library"
+        ],
+        "sub_category": "Man-made",
+        "description": "If you have never been to a digital library, then a visit to Ibom e-library is non-negotiable. Ibom e-library is situated in Uyo and is the first and biggest digital library in the whole of West Africa. This e-library is definitely not a place for leisure. However, it could be the extra spice to your visit to Akwa-Ibom. It was built by Godswill Akpabio and commissioned by Goodluck Jonathan.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Available/Not-Available"
+        },
+        "tags": [
+            "e-library",
+            "digital"
+        ],
+        "rating": "5"
     }
 ]
