@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
      <!-- Favicons -->
      <link rel="apple-touch-icon" sizes="57x57" href="img/favicons/apple-icon-57x57.png">
      <link rel="apple-touch-icon" sizes="60x60" href="img/favicons/apple-icon-60x60.png">
@@ -42,7 +48,8 @@
     <meta property="twitter:description" content="A free tourist attractions library for Nigerian companies">
     <meta property="twitter:image" content="https://nigeriatouristattractions.com/images/seo_card.jpg">
     <!-- Styles -->
-    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="./scss/output.css" /> -->
+    <link rel="stylesheet" href="./scss/output.css" />
     <meta name="viewport" content="width=device-width">
     <meta name="theme-color" content="#06DAAF" />
     <meta name="msapplication-navbutton-color" content="#06DAAF">
@@ -50,6 +57,54 @@
     <!-- Scripts -->
 </head>
 <body>
-    
+    <div class="main">
+        <div class="section-main-margin">
+          <div class="section-header">
+            <div class="section-logo-search">
+              <div class="section-logo">nt</div>
+              <div class="section-search">
+                <div class="search">
+                  <div class="dropdown">
+                    <span>All Categories</span>
+                    <div class="dropdown-content">
+                        <li class="list-item">
+                            <a href="#" class="widget item--js">
+                              <span>Categories</span>
+                              <i class="ion ion-ios-partly-sunny-outline"></i>
+                            </a>
+                            <ul class="drop-menu menu-4">
+                              <li class="drop-item"><a href="#" class="item--1">Outdoor</a></li>
+                              <li class="drop-item"><a href="#" class="item--2">Adventure</a></li>
+                              <li class="drop-item"><a href="#" class="item--3">Museums</a></li>
+                            </ul>
+                          </li>
+                    </div>
+                   
+                  </div>
+                  <input
+                    type="text"
+                    class="search-term"
+                    placeholder="search for a company"
+                  />
+                  <button type="submit" class="search-button">
+                    <i class="fa fa-search"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="section-header-description">
+              <div>NigeriaTourism, an open source collection</div>
+              <div>of high quality, pixel perfect Nigerian</div>
+              <div>tourist locations for use.</div>
+            </div>
+            <div class="section-search-description">
+              Search through basic details of 400+ tourist locations/attractions in Nigeria from 2+ contributors
+            </div>
+            <div class="github-button">
+              <button>Contribute on Github</button>
+            </div>
+          </div>
+        </div>
+      </div>
 </body>
 </html>

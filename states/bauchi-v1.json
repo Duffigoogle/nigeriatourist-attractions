@@ -1,0 +1,47 @@
+[
+    {
+        "fullname": "Ogbunike Cave",
+        "shortname": "",
+        "abbreviation": "",
+        "url": "#",
+        "unesco_heritage": "tentative-list", 
+        "location": {
+            "locality": "",
+            "town": "Ogbunike",
+            "lga": "LGA_name",
+            "state": "Anambra State"
+        },
+        "address": "Behind St. Monica College, Ogbunike",
+        "postalcode": "",
+        "coordinates": {
+            "latitude": "LAT.",
+            "longitude": "LONG."
+        },
+        "category": [
+            "Outdoors",
+            "Adventure",
+            "Cave"
+        ],
+        "sub_category": "Natural",
+        "description": "Ogbunike Caves are situated in a valley with tropical rain forest behind the Ogba hills, in which lies St. Monica College, Ogbunike. Descending into the valley where the caves are located is a lengthy walkway made up of about 317 steps said to have been constructed by the Anambra State Government in the mid 90s. At the end of the walkway is an open space used as a reception point where visitors are by tradition to remove their shoes. The main cave consists of a massive structure with a big open chamber of about 5m high, 10m wide and 30m long at the entrance. There are ten tunnels at the main chamber leading to different directions. Within the tunnels are big chambers and other tunnels of varying lengths, some of which are interconnected. The caves are occupied by a large colony of bats of various sizes. There are streams and body of water at various places. A stream flows out from one of the tunnels into a rapid flowing river (River Nkissa). At the meeting point of the river and the stream one can feel the warm water from the caves and the cold river water.",
+        "status": "Active",
+        "opening_hours": "",
+        "owner_type": "public",
+        "5As": {
+            "accessibility": "",
+            "amenities": "Available/Not-available/",
+            "activities": "",
+            "attractions": "",
+            "accomodation": "Not-Available"
+        },
+        "tags": [
+            "caves",
+            "cultural heritage",
+            "exploration" 
+        ],
+        "rating": "6.5"
+    },
+    {
+        
+    }
+]
